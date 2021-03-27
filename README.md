@@ -31,7 +31,7 @@ Nesse desafio, o principal objetivo é criar uma aplicação para treinar o qu
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/rfsants001/Ignite-Challenge-Chapter-01/
+git clone https://github.com/rfsants001/To-do-list/
 # ou use a opção de download.
 
 # Instale as dependências
